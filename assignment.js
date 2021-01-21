@@ -17,7 +17,7 @@ function kiloMeterToMeter(kiloMeter) {
     }
     return totalMeter;
 }
-var result = kiloMeterToMeter(12);
-console.log(result);
+// var result = kiloMeterToMeter(12);
+// console.log(result);
 
 // problem one closed
